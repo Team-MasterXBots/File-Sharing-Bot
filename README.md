@@ -49,7 +49,7 @@ I Guess This Will Be Usefull For Many People.....😇.
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
-**Code By [Ƭʜᴇ Wøℓf Verified ](https://t.me/RGamer_s)
+Code By [Ƭʜᴇ Wøℓf Verified ](https://t.me/RGamer_s)
 **Thanks To [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
 #### Deploy in your VPS
